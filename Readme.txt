@@ -1,5 +1,5 @@
 Game Controls
-The project 1 environment was downloaded. To play this game the player moves with the WASD Keys. The player can look around with the mouse.
+To play this game the player moves with the WASD Keys. The player can look around with the mouse.
 The player can press mouse1 to shoot. Mouse 1 shoots one of two spheres. The larger sphere does 20 damage to the enemy while the smaller 
 sphere does 10 damage. If the sphere is shot off into the sky it will disappear in 5 seconds. If the sphere hits the enemy or the 
 environment it will disappear as well. If the F1 key is pressed then the UI opens up. This menu not only freezes gameplay but allows
